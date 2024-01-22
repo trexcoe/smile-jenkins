@@ -1,6 +1,6 @@
 # T-Rex SMILE®: Jenkins
 
-Varios Seed Jobs For Various Jenkins including the one used by T-Rex SMILE
+Various Seed Jobs For Various Jenkins including the one used by T-Rex SMILE®
 
 ## Jenkins rpm jenkins-2.222.1-1.1.noarch.rpm
 
